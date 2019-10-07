@@ -1,0 +1,16 @@
+.button{
+    -fx-background-color: rgba(205,205,205,0.7);
+	-fx-text-indent: -9000px;
+	-fx-font-size : 0.1px;
+}
+
+.button:pressed{
+    -fx-background-color: rgba(235,235,235,0.7);
+}
+
+.button:hover{
+    -fx-background-color: rgba(235,235,235,0.7);
+}
+#pressed{
+    -fx-background-color: rgba(235,235,235,0.7);
+}
